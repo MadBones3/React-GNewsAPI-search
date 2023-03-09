@@ -1,12 +1,15 @@
 # React News Search from GNews API
 
+GnewsAPI [https://gnews.io/](https://gnews.io/)\
 Can search by keywords, title, author. Can set number of Articles to show and can select the country the articles are coming from.
 
 ## Screenshots
 
 ![App Preview](https://github.com/MadBones3/React-GNewsAPI-search/blob/main/img/News_app.png)
 
-## Available Scripts
+## To run project
+
+You will need to get an API key from [https://gnews.io/](Gnews.io) - its FREE.
 
 In the project directory, you can run:
 
