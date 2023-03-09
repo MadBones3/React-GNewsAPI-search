@@ -9,7 +9,7 @@ Can search by keywords, title, author. Can set number of Articles to show and ca
 
 ## To run project
 
-You will need to get an API key from [https://gnews.io/](Gnews.io) - its FREE.
+You will need to get an API key from [GNews.io](https://gnews.io/) - its FREE.
 
 In the project directory, you can run:
 
